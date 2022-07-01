@@ -1,0 +1,17 @@
+#
+# This file contains configuration flags to customize your site
+#
+
+
+# The release of Jekyll Now that you're using
+version: vv4.2.2
+
+
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
